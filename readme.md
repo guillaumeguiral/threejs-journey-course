@@ -1,4 +1,8 @@
-# Three.js Journey
+# Three.js Journey Course - Personal Project
+
+## Demo (Live)
+
+- https://threejs-journey-project.vercel.app/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -14,3 +18,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
